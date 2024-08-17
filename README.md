@@ -58,6 +58,8 @@ https://github.com/user-attachments/assets/8097a2e4-76a7-427d-b06f-ed5130984a7c
 총 48일
 
 ### 유사 프로그램 분석
+<details>
+  <summary>유사 프로그램 분석 후 공통점, 차이점 도출</summary>
 
 <img width="938" alt="스크린샷 2024-08-17 오후 9 21 56" src="https://github.com/user-attachments/assets/f44e12e3-b0ed-4bfd-be18-9bc6ad7a611e">
 
@@ -76,6 +78,8 @@ https://github.com/user-attachments/assets/8097a2e4-76a7-427d-b06f-ed5130984a7c
 ![image](https://github.com/user-attachments/assets/bfdcbce1-1a59-40c7-8df1-0f04fd91b009)
 
 ![image](https://github.com/user-attachments/assets/29b60b02-b0cf-4a41-adc1-9dd8de3f288d)
+
+</details>
 
 <div align="right">
   
