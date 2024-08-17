@@ -33,9 +33,56 @@
 <img width="635" alt="image" src="https://github.com/user-attachments/assets/1b5802e8-81a0-46ba-aef5-d5492928230c">
 
 ### 4. 시연 영상
+메인 페이지
 
+https://github.com/user-attachments/assets/f1407239-516b-44ad-b5a7-0e1de6971483
+
+전체 펀딩 제품 페이지
+
+https://github.com/user-attachments/assets/1beb6917-1e92-4062-95c3-af621539a28e
+
+신규 펀딩 제품 등록
+
+https://github.com/user-attachments/assets/8097a2e4-76a7-427d-b06f-ed5130984a7c
 
 ### 5. 프로젝트 일정 및 산출물
 ### 개발 기간
 ![image](https://github.com/JayLee-98/revelup/assets/153487581/72dfea25-3f86-4358-8518-79cd7e81a5a6)
 총 48일
+
+### 유사 프로그램 분석
+
+<img width="938" alt="스크린샷 2024-08-17 오후 9 21 56" src="https://github.com/user-attachments/assets/f44e12e3-b0ed-4bfd-be18-9bc6ad7a611e">
+
+![image](https://github.com/user-attachments/assets/800883f7-92f1-430b-9d02-e487b52ad359)
+
+![image](https://github.com/user-attachments/assets/eec376c2-fa47-4d2c-9aa3-419688f4a511)
+
+![image](https://github.com/user-attachments/assets/94c3c91f-00d8-4513-b849-85434e3f2a2c)
+
+![image](https://github.com/user-attachments/assets/1ee84209-5994-4930-8350-9621f5e42349)
+
+![image](https://github.com/user-attachments/assets/abcda5b1-a728-42b3-acd1-bfef455e47e9)
+
+![image](https://github.com/user-attachments/assets/b993ddc8-a7ea-4241-8db4-f31805d0b42c)
+
+![image](https://github.com/user-attachments/assets/bfdcbce1-1a59-40c7-8df1-0f04fd91b009)
+
+![image](https://github.com/user-attachments/assets/29b60b02-b0cf-4a41-adc1-9dd8de3f288d)
+
+### Figma
+<img width="926" alt="image" src="https://github.com/user-attachments/assets/9dbe37ca-eb21-44c6-a403-90e6f939fcb2">
+
+### ERD
+![Untitled (37)](https://github.com/user-attachments/assets/0a15ec06-5b02-47f1-a1af-41dbc682890d)
+
+![Untitled (38)](https://github.com/user-attachments/assets/5449039d-c8b1-417b-b963-a7c5b3b4c195)
+
+### 업무 분석
+![Group 3](https://github.com/user-attachments/assets/cea68a85-3257-4248-9ce1-970e0b9109d2)
+
+
+
+
+### 요구 사항 명세
+![Group 2](https://github.com/user-attachments/assets/687ecc8c-6b71-4e0c-8708-954589a716d0)
